@@ -13,9 +13,6 @@ Key features include:
 - **Account details:** CreditScore, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary  
 - **Target variable:** `Exited` (1 = Churned, 0 = Retained)  
 
-## ⚙️ Requirements
-Install the following Python libraries before running the notebook:  
-
 ## 🔑 Project Highlights
 
 📊 Exploratory Data Analysis (EDA):
