@@ -1,5 +1,4 @@
-# Customer Churn Analysis – EDA & Modeling
-
+# Customer Churn Analysis 
 ## 📌 Overview
 This project explores customer churn through **Exploratory Data Analysis (EDA)** and **predictive modeling**.  
 Customer churn (or attrition) occurs when customers stop using a company’s product or service, directly affecting revenue and long-term profitability. Identifying patterns behind churn is crucial for improving customer retention and business growth.  
