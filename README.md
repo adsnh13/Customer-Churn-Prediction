@@ -16,7 +16,7 @@ Key features include:
 ## ⚙️ Requirements
 Install the following Python libraries before running the notebook:  
 
-##🔑 Project Highlights
+## 🔑 Project Highlights
 
 📊 Exploratory Data Analysis (EDA):
 
@@ -24,11 +24,11 @@ Identified patterns and trends in customer demographics and account activity.
 
 Visualized correlations between features (e.g., age, balance, activity status) and churn behavior.
 
-##⚖️ Handling Class Imbalance:
+## ⚖️ Handling Class Imbalance:
 
 Used SMOTE (Synthetic Minority Over-sampling Technique) and class weighting to address imbalance in the churn dataset.
 
-##🤖 Machine Learning Models:
+## 🤖 Machine Learning Models:
 
 Implemented and compared multiple classifiers:
 
@@ -44,11 +44,11 @@ XGBoost
 
 Gradient Boosting
 
-##🧮 Model Evaluation:
+## 🧮 Model Evaluation:
 
 Compared models using Accuracy, Recall, F1 Score, and ROC AUC to assess predictive performance.
 
-##🏆 Best Performing Models:
+## 🏆 Best Performing Models:
 
 Gradient Boosting achieved the highest F1 and ROC AUC, making it the most reliable for churn prediction.
 
